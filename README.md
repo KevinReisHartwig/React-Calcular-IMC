@@ -1,6 +1,6 @@
 # Calcular IMC
 
-##Nesse exercício você deverá:
+## Nesse exercício você deverá:
 
 1) Crie um projeto utilizando ReactJS;
 - Este projeto será basicamente um formulário, contendo os campos: 
